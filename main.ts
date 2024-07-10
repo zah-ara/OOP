@@ -1,4 +1,5 @@
 #! /usr/bin/env code
+
 import inquirer from "inquirer";
 
 class Student {
